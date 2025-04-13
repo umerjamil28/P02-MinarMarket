@@ -1,0 +1,18 @@
+{
+    "watch": ["server.js", "routes", "controllers", "models", "utils"],
+    "ignore": [
+      "node_modules",
+      "venv",
+      "venv/**",
+      "venv-tf",
+      "venv-tf/**",
+      "python",
+      "python/**",
+      "**/__pycache__/**",
+      ".git",
+      ".idea",
+      "logs"
+    ],
+    "ext": "js,json"
+  }
+  
