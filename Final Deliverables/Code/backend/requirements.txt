@@ -1,0 +1,7 @@
+numpy
+pymongo
+sentence-transformers
+tf-keras
+tqdm
+scikit-learn
+spacy
