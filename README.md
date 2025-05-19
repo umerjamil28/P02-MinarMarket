@@ -1,2 +1,2 @@
-# TravelPlanner
+# MinarMarket
 A final year project.
